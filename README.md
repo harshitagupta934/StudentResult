@@ -28,5 +28,9 @@ Can View Full Screen
 Can Download Result in PDF with the Roll Number
 Login/Logout
 
-
-Open a browser and go to URL “http://localhost/studentresult/index.php”
+ Open a browser and go to URL “http://localhost/phpmyadmin/”
+ Then, click on the databases tab
+ Create a database naming “srms” and then click on the import tab
+ Click on browse file and select “srms.sql” file which is inside the “db” folder
+Click on go.
+Open a browser and go to URL “http://localhost/studentresult/”
