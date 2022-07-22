@@ -34,3 +34,6 @@ Login/Logout
  Click on browse file and select “srms.sql” file which is inside the “db” folder
 Click on go.
 Open a browser and go to URL “http://localhost/studentresult/”
+
+UserName-admin
+Password-admin
